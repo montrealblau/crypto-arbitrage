@@ -1,0 +1,12 @@
+{
+  "exchange": "gate",
+  "paris": [
+    "eth"
+  ],
+  "sellFee": 0.002,
+  "buyFee": 0.002,
+  "realprofit": 1,
+  "delta": 1,
+  "minrequired": 0,
+  "maxrequired": 1000
+}
